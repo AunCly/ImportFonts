@@ -1,4 +1,4 @@
-# Radium - Projet Perso
+# Iridium - Projet Perso
 
 ## Description
 
